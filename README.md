@@ -1,4 +1,4 @@
-# Reverse-Polish-Calculator---Assembly
+# Reverse-Polish-Calculator
 
 Rolul registrilor:
 	- eax, care are rolul de a retine numerele care vor fi apoi introduse in stiva si de a efectua operatii cu ele
